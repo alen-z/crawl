@@ -7,6 +7,7 @@ import (
 	"github.com/xfk/colly"
 	"golang.org/x/net/html"
 	"io/ioutil"
+	"net/url"
 	"path"
 	"strconv"
 	"strings"
@@ -119,7 +120,7 @@ func hasMinPath(atMin *Minimum, path string) bool {
 }
 
 func shouldFollow(atMin *Minimum, e *colly.HTMLElement) bool {
-	return hasMinElement(atMin, e) && hasMinPath(atMin, e.Request.URL.Path)
+	return hasMinElement(atMin, e)// && hasMinPath(atMin, e.Request.URL.Path)
 }
 
 func main() {
@@ -132,8 +133,10 @@ func main() {
 	atMin := &Minimum{}
 	json.Unmarshal([]byte(file), atMin)
 	
+	domain, _ := url.Parse(*start_url)
+
 	c := colly.NewCollector(
-		colly.AllowedDomains("pointstone.com"),
+		colly.AllowedDomains(domain.Host),
 	)
 	
 	c.OnHTML("a[href]", func(e *colly.HTMLElement) {
@@ -148,7 +151,7 @@ func main() {
 	})
 
 	c.OnRequest(func(r *colly.Request) {
-		//fmt.Println("Visiting", r.URL.String())
+		fmt.Println("Visiting", r.URL.String())
 	})
 
 	c.Visit(*start_url)
