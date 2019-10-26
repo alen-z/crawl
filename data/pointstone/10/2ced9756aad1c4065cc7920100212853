@@ -1,0 +1,257 @@
+{
+ "XPaths": [
+  [
+   {
+    "class": "",
+    "id": "logo",
+    "tag": "a"
+   },
+   {
+    "class": "container",
+    "id": "header-top",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "header",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "",
+    "id": "",
+    "tag": "a"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "li"
+   },
+   {
+    "class": "",
+    "id": "menu",
+    "tag": "ul"
+   },
+   {
+    "class": "",
+    "id": "nav",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "nav"
+   },
+   {
+    "class": "container",
+    "id": "header-top",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "header",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "",
+    "id": "",
+    "tag": "a"
+   },
+   {
+    "class": "software_icon",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "span-12 last",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "pt20",
+    "id": "top_software",
+    "tag": "div"
+   },
+   {
+    "class": "container",
+    "id": "main-content",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "left buyuk-buton buyuk-yesil",
+    "id": "dl_link",
+    "tag": "a"
+   },
+   {
+    "class": "container",
+    "id": "main-content",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "center buyuk-buton buyuk-yesil",
+    "id": "dl_link",
+    "tag": "a"
+   },
+   {
+    "class": "right",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "box",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "span-20 pt15 last",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "container",
+    "id": "main-content",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ]
+ ],
+ "Pages": [
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/download/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/download/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/products/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/products/disk-defrag/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  }
+ ],
+ "Target": "https://download.pointstone.com/win/disk-defrag/disk_defrag_setup.exe"
+}

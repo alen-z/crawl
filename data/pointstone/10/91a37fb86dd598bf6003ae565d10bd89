@@ -1,0 +1,60 @@
+{
+ "XPaths": [
+  [
+   {
+    "class": "btn-icon btn-large btn-arrow-down download-button",
+    "id": "",
+    "tag": "a"
+   },
+   {
+    "class": "span-5 center",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "product-download",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "span-18 border",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "container",
+    "id": "main-content",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ]
+ ],
+ "Pages": [
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/download/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  }
+ ],
+ "Target": "https://download.pointstone.com/win/internetaccelerator/internet_accelerator_setup.exe"
+}

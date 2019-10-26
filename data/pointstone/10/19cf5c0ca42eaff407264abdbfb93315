@@ -1,0 +1,345 @@
+{
+ "XPaths": [
+  [
+   {
+    "class": "",
+    "id": "logo",
+    "tag": "a"
+   },
+   {
+    "class": "container",
+    "id": "header-top",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "header",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "",
+    "id": "",
+    "tag": "a"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "li"
+   },
+   {
+    "class": "",
+    "id": "menu",
+    "tag": "ul"
+   },
+   {
+    "class": "",
+    "id": "nav",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "nav"
+   },
+   {
+    "class": "container",
+    "id": "header-top",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "header",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "",
+    "id": "",
+    "tag": "a"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "li"
+   },
+   {
+    "class": "span-6",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "container",
+    "id": "main-content",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "",
+    "id": "",
+    "tag": "a"
+   },
+   {
+    "class": "active",
+    "id": "",
+    "tag": "li"
+   },
+   {
+    "class": "tabs",
+    "id": "",
+    "tag": "ul"
+   },
+   {
+    "class": "navigation",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "clear",
+    "id": "product_tabs",
+    "tag": "div"
+   },
+   {
+    "class": "container",
+    "id": "main-content",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "",
+    "id": "",
+    "tag": "a"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "li"
+   },
+   {
+    "class": "tabs",
+    "id": "",
+    "tag": "ul"
+   },
+   {
+    "class": "navigation",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "clear",
+    "id": "product_tabs",
+    "tag": "div"
+   },
+   {
+    "class": "container",
+    "id": "main-content",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ],
+  [
+   {
+    "class": "left buyuk-buton buyuk-yesil",
+    "id": "dl_link",
+    "tag": "a"
+   },
+   {
+    "class": "pt10",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "span-9 last",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "span-24",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "container",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "inner",
+    "id": "",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "featured",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "featured-out",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "box",
+    "tag": "div"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "body"
+   },
+   {
+    "class": "",
+    "id": "",
+    "tag": "html"
+   }
+  ]
+ ],
+ "Pages": [
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/download/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/download/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/products/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/products/PCUsageViewer/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  },
+  {
+   "Scheme": "https",
+   "Opaque": "",
+   "User": null,
+   "Host": "www.pointstone.com",
+   "Path": "/products/pcusageviewer/",
+   "RawPath": "",
+   "ForceQuery": false,
+   "RawQuery": "",
+   "Fragment": ""
+  }
+ ],
+ "Target": "http://dl1.pointstone.com/download/freeware/PCUsageViewer/PCUsageViewerSetup.exe"
+}
