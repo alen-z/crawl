@@ -8,6 +8,7 @@ import (
 	"golang.org/x/net/html"
 	"io/ioutil"
 	"path"
+	"strconv"
 	"strings"
 )
 
@@ -124,9 +125,10 @@ func shouldFollow(atMin *Minimum, e *colly.HTMLElement) bool {
 func main() {
 	name := flag.String("name", "pointstone", "Spider Name")
 	start_url := flag.String("url", "https://www.pointstone.com/download/", "Start URL")
+	depth := flag.Int("depth", 10, "Max depth")
 	flag.Parse()
 
-	file, _ := ioutil.ReadFile(path.Join("../data/" + *name, *name))
+	file, _ := ioutil.ReadFile(path.Join("../data/" + *name, *name + strconv.Itoa(*depth)))
 	atMin := &Minimum{}
 	json.Unmarshal([]byte(file), atMin)
 	
