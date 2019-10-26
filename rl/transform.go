@@ -61,10 +61,12 @@ func main() {
 		inFile, _ := ioutil.ReadFile(path.Join(dir, file.Name()))
 		path := &Path{}
 		json.Unmarshal([]byte(inFile), path)
-		
+		fmt.Println("file je: " + file.Name())
 		for _, xpaths := range path.XPaths {
-			for _, elements := range xpaths {
-				atMin.XPaths = append(atMin.XPaths, elements)
+			for index, elements := range xpaths {
+				if index > 3  || len(xpaths) < 3 {
+					atMin.XPaths = append(atMin.XPaths, elements)
+				}
 			}
 		}
 		for i, page := range path.Pages {
@@ -72,6 +74,8 @@ func main() {
 				Path: page.String(),
 				Pos: i,
 			}
+			//fmt.Println("page:")
+			//fmt.Println(mpage)
 			atMin.AllowedPaths = append(atMin.AllowedPaths, mpage)
 		}
 	}
